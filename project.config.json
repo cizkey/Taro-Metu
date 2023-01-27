@@ -1,0 +1,33 @@
+{
+    "miniprogramRoot": "dist/",
+    "projectname": "MatrixCross-Taro-Admin",
+    "description": "小程序Admin",
+    "appid": "wxc99f894f7bfeca04",
+    "setting": {
+        "urlCheck": true,
+        "es6": false,
+        "enhance": false,
+        "compileHotReLoad": false,
+        "postcss": false,
+        "minified": false,
+        "babelSetting": {
+            "ignore": [],
+            "disablePlugins": [],
+            "outputPath": ""
+        },
+        "minifyWXSS": false,
+        "minifyWXML": false
+    },
+    "compileType": "miniprogram",
+    "libVersion": "2.30.0",
+    "srcMiniprogramRoot": "dist/",
+    "packOptions": {
+        "ignore": [],
+        "include": []
+    },
+    "condition": {},
+    "editorSetting": {
+        "tabIndent": "insertSpaces",
+        "tabSize": 4
+    }
+}
